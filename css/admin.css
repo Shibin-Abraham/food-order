@@ -1,0 +1,184 @@
+/*
+Author : Shibin k.a
+version: 1.0
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h1{
+    color: rgb(0, 78, 180);
+    
+}
+.wrapper{
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+
+}
+.wrapper2{
+    padding: 1%;
+    width: 100%;
+    margin: 0 auto;
+
+}
+.text-center{
+    text-align: center;
+}
+.clear-fix{
+    float: none;
+    clear: both;
+}
+.tbl-full{
+    width: 100%;
+}
+table tr th{
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+    font-style: italic;
+}
+table tr td{
+    padding: 1%;
+}
+.tbl-30{
+    width: 30%;
+    
+}
+.btn-pass{
+    background-color: #2e61f0e7;
+    padding: 1%;
+    border-radius: 4px;
+    color: white;
+    text-decoration: none;
+}
+.btn-pass:hover{
+    background-color: #1343c9e7;
+}
+/*login button*/
+.btn-login{
+    background-color: #1e90ff;
+    padding: 2%;
+    border-radius: 5px;
+    color: #f1f2f6;
+    text-decoration: none;
+}
+.btn-login:hover{
+    background-color: #2a09e4;
+    
+}
+
+.btn-primary{
+    background-color: #1e90ff;
+    padding: 1%;
+    border-radius: 25px;
+    color: #f1f2f6;
+    text-decoration: none;
+}
+.btn-primary:hover{
+    background-color: #0977e4;
+    font-weight: 550;
+}
+.btn-secondary{
+    background-color: #7bed9f;
+    padding: 1%;
+    border-radius: 4px;
+    color: black;
+    text-decoration: none;
+}
+.btn-secondary:hover{
+    background-color: #48e48e;
+    
+
+}
+.btn-danger{
+    background-color: #ff6b81;
+    padding: 1%;
+    border-radius: 4px;
+    color: #f1f2f6;
+    text-decoration: none;
+}
+.btn-danger:hover{
+    background-color: #fd2f39;
+
+}
+
+.success{
+    color: #08fa08;
+}
+.error{
+    color: #fa1529;
+}
+.success2{
+    color: rgb(152, 46, 238);
+}
+
+/* for nave bar*/
+.menu{
+    border-bottom: 1px solid rgb(99, 97, 97);
+    background-color: rgba(192, 192, 192, 0.151);
+}
+
+.menu ul{
+    list-style-type: none;
+}
+.menu ul li{
+    display: inline;
+    padding: 2%;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #ff6b81;
+}
+.menu ul li a:hover{
+    color: #e92a47;
+    font-weight: 800;
+}
+
+
+/* main content*/
+.main-content{
+    margin: 1% 1%;
+    background-color: #f1f2f6;
+    padding: 3% 3%;
+    background-color: rgba(250, 235, 215, 0.897);
+}
+.col-4{
+    width: 18%;
+    background-color: rgb(248 21 97);
+    margin: 1%;
+    padding: 2%;
+    border-radius: 10px;
+    float: left;
+    color: white;
+}
+.col-4:hover{
+    background-color: black;
+
+}
+.total-rev{
+    color: #70ff70;
+    font-weight: bold;
+}
+
+
+
+
+/* for footer*/
+.footer{
+    background-color: rgb(248, 21, 97);
+    color: white;
+}
+/* css for login*/
+.login{
+    border: 1px solid rgb(90, 88, 88);
+    width: 20%;
+    margin: 10% auto;
+    padding: 2%;
+
+}
+/*----------------------------for featured-------------------------------*/
+
