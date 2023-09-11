@@ -1,6 +1,6 @@
 # food-order
 
-## 📖  How to Download the Project and Run on your PC?
+## 💻  How to Download the Project and Run on your PC?
 
 ### Pre-Requisites:
 
